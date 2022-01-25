@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-vision/#history
 
+## [2.7.0](https://github.com/googleapis/python-vision/compare/v2.6.3...v2.7.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#300](https://github.com/googleapis/python-vision/issues/300)) ([25fc254](https://github.com/googleapis/python-vision/commit/25fc254a117f025bd0c7bddbc7b246b3c5a2b760))
+
 ### [2.6.3](https://www.github.com/googleapis/python-vision/compare/v2.6.2...v2.6.3) (2021-12-12)
 
 
